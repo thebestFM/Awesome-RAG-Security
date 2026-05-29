@@ -41,6 +41,8 @@
   - [Post-Retrieval Context Isolation (L3)](#post-retrieval-context-isolation-l3)
   - [Access Control, Privacy and Confidentiality (L4)](#access-control-privacy-and-confidentiality-l4)
 - [Secure-RAG Evaluation Studies](#secure-rag-evaluation-studies)
+  - [Benchmark Studies](#benchmark-studies)
+  - [Systematic Evaluation Studies](#systematic-evaluation-studies)
 
 ---
 
