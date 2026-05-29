@@ -53,24 +53,24 @@
 | Year | Title | **S**urface/**L**ayer | **O**bjective | **T**arget | Venue | Paper | Code |
 | ---- | ----- | --------------------- | ------------- | ---------- | ----- | ----- | ---- |
 | 2026 | MIRAGE: Misleading Retrieval-Augmented Generation via Black-box and Query-agnostic Poisoning Attacks | S1 | O1 | T2 | arXiv | [Link](https://arxiv.org/pdf/2512.08289) |  |
-| 2026 | Memory Injection Attacks on LLM Agents via Query-Only Interaction | S1 | O1 | T1 | arXiv | [Link](https://arxiv.org/pdf/2503.03704) |  |
+| 2026 | Memory Injection Attacks on LLM Agents via Query-Only Interaction | S1 | O1 | T1 | NeurIPS | [Link](https://openreview.net/pdf?id=QINnsnppv8) |  |
 | 2025 | PoisonedRAG: Knowledge Corruption Attacks to Retrieval-Augmented Generation of Large Language Models | S1 | O1 | T1 | USENIX Security | [Link](https://www.usenix.org/system/files/usenixsecurity25-zou-poisonedrag.pdf) |  |
-| 2025 | GASLITEing the Retrieval: Exploring Vulnerabilities in Dense Embedding-based Search | S1 | O1 | T1 | ACM CCS | [Link](https://arxiv.org/pdf/2412.20953) |  |
+| 2025 | GASLITEing the Retrieval: Exploring Vulnerabilities in Dense Embedding-based Search | S1 | O1 | T1 | ACM CCS | [Link](https://dl.acm.org/doi/pdf/10.1145/3719027.3765095) |  |
 | 2025 | Practical Poisoning Attacks against Retrieval-Augmented Generation | S1 | O1 | T1 | arXiv | [Link](https://arxiv.org/pdf/2504.03957) |  |
 | 2025 | One Shot Dominance: Knowledge Poisoning Attack on Retrieval-Augmented Generation Systems | S1 | O1 | T1 | Findings of EMNLP | [Link](https://aclanthology.org/2025.findings-emnlp.1023.pdf) |  |
 | 2025 | UniC-RAG: Universal Knowledge Corruption Attacks to Retrieval-Augmented Generation | S1 | O1 | T2 | arXiv | [Link](https://arxiv.org/pdf/2508.18652) |  |
 | 2025 | MemoryGraft: Persistent Compromise of LLM Agents via Poisoned Experience Retrieval | S1 | O1 | T1 | arXiv | [Link](https://arxiv.org/pdf/2512.16962) |  |
 | 2024 | BadRAG: Identifying Vulnerabilities in Retrieval Augmented Generation of Large Language Models | S1 | O1, O2 (partial) | T1 | arXiv | [Link](https://arxiv.org/pdf/2406.00083) |  |
 | 2024 | Typos that Broke the RAG's Back: Genetic Attack on RAG Pipeline by Simulating Documents in the Wild via Low-level Perturbations | S1 | O1 | T1 | Findings of EMNLP | [Link](https://aclanthology.org/2024.findings-emnlp.161.pdf) |  |
-| 2024 | Human-Imperceptible Retrieval Poisoning Attacks in LLM-Powered Applications | S1 | O1 | T1 | FSE Companion | [Link](https://arxiv.org/pdf/2404.17196) |  |
+| 2024 | Human-Imperceptible Retrieval Poisoning Attacks in LLM-Powered Applications | S1 | O1 | T1 | FSE Companion | [Link](https://dl.acm.org/doi/pdf/10.1145/3663529.3663786) |  |
 | 2024 | HijackRAG: Hijacking Attacks against Retrieval-Augmented Large Language Models | S1 | O1 | T1 | arXiv | [Link](https://arxiv.org/pdf/2410.22832) |  |
-| 2024 | AgentPoison: Red-teaming LLM Agents via Poisoning Memory or Knowledge Bases | S1 | O1 | T1 | arXiv | [Link](https://arxiv.org/pdf/2407.12784) |  |
+| 2024 | AgentPoison: Red-teaming LLM Agents via Poisoning Memory or Knowledge Bases | S1 | O1 | T1 | NeurIPS | [Link](https://proceedings.neurips.cc/paper_files/paper/2024/file/eb113910e9c3f6242541c1652e30dfd6-Paper-Conference.pdf) |  |
 
 ### Data-Loading Poisoning ([To Top](#awesome-rag-security))
 
 | Year | Title | **S**urface/**L**ayer | **O**bjective | **T**arget | Venue | Paper | Code |
 | ---- | ----- | --------------------- | ------------- | ---------- | ----- | ----- | ---- |
-| 2025 | The Hidden Threat in Plain Text: Attacking RAG Data Loaders | S1 | O1 | T1 | ACM AISec | [Link](https://arxiv.org/pdf/2507.05093) |  |
+| 2025 | The Hidden Threat in Plain Text: Attacking RAG Data Loaders | S1 | O1 | T1 | ACM AISec | [Link](https://dl.acm.org/doi/pdf/10.1145/3733799.3762976) |  |
 
 ### Graph / Multimodal Knowledge Poisoning ([To Top](#awesome-rag-security))
 
@@ -81,14 +81,14 @@
 | 2025 | A Few Words Can Distort Graphs: Knowledge Poisoning Attacks on Graph-based Retrieval-Augmented Generation of Large Language Models | S1 | O1 | T1 | arXiv | [Link](https://arxiv.org/pdf/2508.04276) |  |
 | 2025 | MM-PoisonRAG: Disrupting Multimodal RAG with Local and Global Poisoning Attacks | S1 | O1 | T1 | arXiv | [Link](https://arxiv.org/pdf/2502.17832) |  |
 | 2025 | Poisoned-MRAG: Knowledge Poisoning Attacks to Multimodal Retrieval Augmented Generation | S1 | O1 | T1 | arXiv | [Link](https://arxiv.org/pdf/2503.06254) |  |
-| 2025 | Medusa: Cross-Modal Transferable Adversarial Attacks on Multimodal Medical Retrieval-Augmented Generation | S1 | O1 | T1 | arXiv | [Link](https://arxiv.org/pdf/2511.19257) |  |
+| 2026 | Medusa: Cross-Modal Transferable Adversarial Attacks on Multimodal Medical Retrieval-Augmented Generation | S1 | O1 | T1 | KDD | [Link](https://dl.acm.org/doi/pdf/10.1145/3770854.3780277) |  |
 
 ### Code-Oriented Knowledge Poisoning ([To Top](#awesome-rag-security))
 
 | Year | Title | **S**urface/**L**ayer | **O**bjective | **T**arget | Venue | Paper | Code |
 | ---- | ----- | --------------------- | ------------- | ---------- | ----- | ----- | ---- |
 | 2025 | Exploring the Security Threats of Knowledge Base Poisoning in Retrieval-Augmented Code Generation | S1 | O1 | T1 | arXiv | [Link](https://arxiv.org/pdf/2502.03233) |  |
-| 2025 | ImportSnare: Directed Code Manual Hijacking in Retrieval-Augmented Code Generation | S1 | O1 | T1 | ACM CCS | [Link](https://arxiv.org/pdf/2509.07941) |  |
+| 2025 | ImportSnare: Directed Code Manual Hijacking in Retrieval-Augmented Code Generation | S1 | O1 | T1 | ACM CCS | [Link](https://dl.acm.org/doi/pdf/10.1145/3719027.3765161) |  |
 | 2025 | RAG-Pull: Imperceptible Attacks on RAG Systems for Code Generation | S1 | O1 | T1 | arXiv | [Link](https://arxiv.org/pdf/2510.11195) |  |
 
 ## Retrieval Result Manipulation (S2)
@@ -97,7 +97,7 @@
 
 | Year | Title | **S**urface/**L**ayer | **O**bjective | **T**arget | Venue | Paper | Code |
 | ---- | ----- | --------------------- | ------------- | ---------- | ----- | ----- | ---- |
-| 2024 | Prompt Perturbation in Retrieval-Augmented Generation based Large Language Models | S2 | O1 | T1 | KDD | [Link](https://arxiv.org/pdf/2402.07179) |  |
+| 2024 | Prompt Perturbation in Retrieval-Augmented Generation based Large Language Models | S2 | O1 | T1 | KDD | [Link](https://dl.acm.org/doi/pdf/10.1145/3637528.3671932) |  |
 
 ### Document Ranking / Retriever Compromise ([To Top](#awesome-rag-security))
 
@@ -106,7 +106,7 @@
 | 2025 | The Silent Saboteur: Imperceptible Adversarial Attacks against Black-Box Retrieval-Augmented Generation Systems | S2 | O1 | T1 | Findings of ACL | [Link](https://aclanthology.org/2025.findings-acl.717.pdf) |  |
 | 2025 | FlippedRAG: Black-Box Opinion Manipulation Adversarial Attacks to Retrieval-Augmented Generation Models | S2 | O1 | T2 | ACM CCS | [Link](https://dl.acm.org/doi/pdf/10.1145/3719027.3765023) |  |
 | 2025 | Topic-FlipRAG: Topic-Orientated Adversarial Opinion Manipulation Attacks to Retrieval-Augmented Generation Models | S2 | O1 | T2 | USENIX Security | [Link](https://www.usenix.org/system/files/usenixsecurity25-gong-yuyang.pdf) |  |
-| 2025 | PR-Attack: Coordinated Prompt-RAG Attacks on Retrieval-Augmented Generation in Large Language Models via Bilevel Optimization | S2 | O1 | T1 | SIGIR | [Link](https://arxiv.org/pdf/2504.07717) |  |
+| 2025 | PR-Attack: Coordinated Prompt-RAG Attacks on Retrieval-Augmented Generation in Large Language Models via Bilevel Optimization | S2 | O1 | T1 | SIGIR | [Link](https://dl.acm.org/doi/pdf/10.1145/3726302.3730058) |  |
 | 2024 | Backdoored Retrievers for Prompt Injection Attacks on Retrieval Augmented Generation of Large Language Models | S2 | O1 | T1 | arXiv | [Link](https://arxiv.org/pdf/2410.14479) |  |
 
 ## Retrieved-Context Exploitation (S3)
@@ -116,12 +116,12 @@
 | Year | Title | **S**urface/**L**ayer | **O**bjective | **T**arget | Venue | Paper | Code |
 | ---- | ----- | --------------------- | ------------- | ---------- | ----- | ----- | ---- |
 | 2026 | PIDP-Attack: Combining Prompt Injection with Database Poisoning Attacks on Retrieval-Augmented Generation Systems | S3 | O1 | T1 | arXiv | [Link](https://arxiv.org/pdf/2603.25164) |  |
-| 2025 | Benchmarking and Defending Against Indirect Prompt Injection Attacks on Large Language Models | S3 | O1 | T1 | WWW | [Link](https://arxiv.org/pdf/2312.14197) |  |
-| 2024 | PANDORA: Jailbreak GPTs by Retrieval Augmented Generation Poisoning | S3 | O1 | T1 | arXiv | [Link](https://arxiv.org/pdf/2402.08416) |  |
+| 2025 | Benchmarking and Defending Against Indirect Prompt Injection Attacks on Large Language Models | S3 | O1 | T1 | KDD | [Link](https://dl.acm.org/doi/pdf/10.1145/3690624.3709179) |  |
+| 2024 | PANDORA: Jailbreak GPTs by Retrieval Augmented Generation Poisoning | S3 | O1 | T1 | AISCC | [Link](https://tianweiz07.github.io/Papers/24-aiscc.pdf) |  |
 | 2024 | Phantom: General Trigger Attacks on Retrieval Augmented Language Generation | S3 | O1, O3 (partial) | T1 | arXiv | [Link](https://arxiv.org/pdf/2405.20485) |  |
 | 2024 | TrojanRAG: Retrieval-Augmented Generation Can Be Backdoor Driver in Large Language Models | S3 | O1 | T1 | arXiv | [Link](https://arxiv.org/pdf/2405.13401) |  |
 | 2024 | ConfusedPilot: Confused Deputy Risks in RAG-based LLMs | S3 | O1, O3 (partial) | T1 | arXiv | [Link](https://arxiv.org/pdf/2408.04870) |  |
-| 2023 | Not What You've Signed Up For: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection | S3 | O1 | T1 | ACM AISec | [Link](https://arxiv.org/pdf/2302.12173) |  |
+| 2023 | Not What You've Signed Up For: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection | S3 | O1 | T1 | ACM AISec | [Link](https://dl.acm.org/doi/pdf/10.1145/3605764.3623985) |  |
 
 ### Availability / Denial / Refusal Abuse ([To Top](#awesome-rag-security))
 
@@ -136,10 +136,10 @@
 
 | Year | Title | **S**urface/**L**ayer | **O**bjective | **T**arget | Venue | Paper | Code |
 | ---- | ----- | --------------------- | ------------- | ---------- | ----- | ----- | ---- |
-| 2025 | Is My Data in Your Retrieval Database? Membership Inference Attacks Against Retrieval Augmented Generation | S4 | O3 | T1 | ICISSP | [Link](https://arxiv.org/pdf/2405.20446) |  |
-| 2025 | Generating Is Believing: Membership Inference Attacks against Retrieval-Augmented Generation | S4 | O3 | T1 | ICASSP | [Link](https://arxiv.org/pdf/2406.19234) |  |
-| 2025 | Mask-based Membership Inference Attacks for Retrieval-Augmented Generation | S4 | O3 | T1 | WWW | [Link](https://arxiv.org/pdf/2410.20142) |  |
-| 2025 | Riddle Me This! Stealthy Membership Inference for Retrieval-Augmented Generation | S4 | O3 | T1 | ACM CCS | [Link](https://arxiv.org/pdf/2502.00306) |  |
+| 2025 | Is My Data in Your Retrieval Database? Membership Inference Attacks Against Retrieval Augmented Generation | S4 | O3 | T1 | ICISSP | [Link](https://www.scitepress.org/Papers/2025/131083/131083.pdf) |  |
+| 2025 | Generating Is Believing: Membership Inference Attacks against Retrieval-Augmented Generation | S4 | O3 | T1 | ICASSP | [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10889013) |  |
+| 2025 | Mask-based Membership Inference Attacks for Retrieval-Augmented Generation | S4 | O3 | T1 | WWW | [Link](https://dl.acm.org/doi/pdf/10.1145/3696410.3714771) |  |
+| 2025 | Riddle Me This! Stealthy Membership Inference for Retrieval-Augmented Generation | S4 | O3 | T1 | ACM CCS | [Link](https://dl.acm.org/doi/pdf/10.1145/3719027.3744840) |  |
 
 ### Targeted Data Extraction ([To Top](#awesome-rag-security))
 
@@ -167,8 +167,8 @@
 
 | Year | Title | **S**urface/**L**ayer | **O**bjective | **T**arget | Venue | Paper | Code |
 | ---- | ----- | --------------------- | ------------- | ---------- | ----- | ----- | ---- |
-| 2025 | D-RAG: A Privacy-Preserving Framework for Decentralized RAG using Blockchain | L1 | O1 | T1 | CS and IT Conference Proceedings | [Link](https://par.nsf.gov/servlets/purl/10578004) |  |
-| 2025 | Proof-Carrying Answers: A Systematic Protocol for Verifiable Retrieval-Augmented Generation with Cryptographic Provenance | L1 | O1 | T1 | ACSAC Workshops | [Link](https://raw.githubusercontent.com/HimJoe/proof-carrying-answers/main/PAC%20for%20RAG%20CyrptographyWAITI%20Shukla%20Joshi.pdf) |  |
+| 2025 | D-RAG: A Privacy-Preserving Framework for Decentralized RAG using Blockchain | L1 | O1 | T1 | CS and IT Conference Proceedings | [Link](https://aircconline.com/csit/papers/vol15/csit150417.pdf) |  |
+| 2025 | Proof-Carrying Answers: A Systematic Protocol for Verifiable Retrieval-Augmented Generation with Cryptographic Provenance | L1 | O1 | T1 | ACSAC Workshops | [Link](https://www.computer.org/csdl/proceedings-article/acsac-workshops/2025/453600a405/2eOZTkNoHSM) |  |
 
 ### Ingestion-Time Validation ([To Top](#awesome-rag-security))
 
@@ -180,8 +180,8 @@
 
 | Year | Title | **S**urface/**L**ayer | **O**bjective | **T**arget | Venue | Paper | Code |
 | ---- | ----- | --------------------- | ------------- | ---------- | ----- | ----- | ---- |
-| 2026 | Who Taught the Lie? Responsibility Attribution for Poisoned Knowledge in Retrieval-Augmented Generation | L1 | O1 | T1 | IEEE S&P | [Link](https://arxiv.org/pdf/2509.13772) |  |
-| 2025 | Traceback of Poisoning Attacks to Retrieval-Augmented Generation | L1 | O1 | T1 | WWW | [Link](https://arxiv.org/pdf/2504.21668) |  |
+| 2026 | Who Taught the Lie? Responsibility Attribution for Poisoned Knowledge in Retrieval-Augmented Generation | L1 | O1 | T1 | IEEE S&P | [Link](https://www.computer.org/csdl/proceedings-article/sp/2026/606500a977/2bojvOwadcQ) |  |
+| 2025 | Traceback of Poisoning Attacks to Retrieval-Augmented Generation | L1 | O1 | T1 | WWW | [Link](https://dl.acm.org/doi/pdf/10.1145/3696410.3714756) |  |
 
 ## Retrieval-Time Access Hardening (L2)
 
@@ -198,7 +198,7 @@
 
 | Year | Title | **S**urface/**L**ayer | **O**bjective | **T**arget | Venue | Paper | Code |
 | ---- | ----- | --------------------- | ------------- | ---------- | ----- | ----- | ---- |
-| 2025 | TrustRAG: Enhancing Robustness and Trustworthiness in Retrieval-Augmented Generation | L2 | O1, O2 (partial) | T1 | arXiv | [Link](https://arxiv.org/pdf/2501.00879) |  |
+| 2025 | TrustRAG: Enhancing Robustness and Trustworthiness in Retrieval-Augmented Generation | L2 | O1, O2 (partial) | T1 | AAAI TrustAgent Workshop | [Link](https://openreview.net/pdf?id=fw5KQVO7o2) |  |
 | 2025 | GRADA: Graph-based Reranking against Adversarial Documents Attack | L2 | O1, O2 (partial) | T1 | EMNLP | [Link](https://aclanthology.org/2025.emnlp-main.1132.pdf) |  |
 | 2025 | RAGPart and RAGMask: Retrieval-Stage Defenses Against Corpus Poisoning in Retrieval-Augmented Generation | L2 | O1, O2 (partial) | T1 | arXiv | [Link](https://arxiv.org/pdf/2512.24268) |  |
 | 2025 | Secure Retrieval-Augmented Generation against Poisoning Attacks | L2 | O1, O2 (partial) | T1 | arXiv | [Link](https://arxiv.org/pdf/2510.25025) |  |
@@ -208,7 +208,7 @@
 
 | Year | Title | **S**urface/**L**ayer | **O**bjective | **T**arget | Venue | Paper | Code |
 | ---- | ----- | --------------------- | ------------- | ---------- | ----- | ----- | ---- |
-| 2025 | SeCon-RAG: A Two-Stage Semantic Filtering and Conflict-Free Framework for Trustworthy RAG | L2 | O1, O2 (partial) | T1 | arXiv | [Link](https://arxiv.org/pdf/2510.09710) |  |
+| 2025 | SeCon-RAG: A Two-Stage Semantic Filtering and Conflict-Free Framework for Trustworthy RAG | L2 | O1, O2 (partial) | T1 | NeurIPS | [Link](https://openreview.net/pdf?id=tTwZhy8JqY) |  |
 
 ## Post-Retrieval Context Isolation (L3)
 
@@ -216,9 +216,9 @@
 
 | Year | Title | **S**urface/**L**ayer | **O**bjective | **T**arget | Venue | Paper | Code |
 | ---- | ----- | --------------------- | ------------- | ---------- | ----- | ----- | ---- |
-| 2026 | Through the Stealth Lens: Attention-Aware Defenses Against Poisoning in RAG | L3 | O1, O2 (partial) | T1 | OpenReview | [Link](https://openreview.net/pdf?id=PS43wqCSME) |  |
+| 2026 | Through the Stealth Lens: Attention-Aware Defenses Against Poisoning in RAG | L3 | O1, O2 (partial) | T1 | ICLR | [Link](https://openreview.net/pdf?id=PS43wqCSME) |  |
 | 2025 | RevPRAG: Revealing Poisoning Attacks in Retrieval-Augmented Generation through LLM Activation Analysis | L3 | O1, O2 (partial) | T1 | Findings of EMNLP | [Link](https://aclanthology.org/2025.findings-emnlp.698.pdf) |  |
-| 2025 | Rescuing the Unpoisoned: Efficient Defense against Knowledge Corruption Attacks on RAG Systems | L3 | O1, O2 (partial) | T1 | arXiv | [Link](https://arxiv.org/pdf/2511.01268) |  |
+| 2025 | Rescuing the Unpoisoned: Efficient Defense against Knowledge Corruption Attacks on RAG Systems | L3 | O1, O2 (partial) | T1 | ACSAC | [Link](https://doi.org/10.1109/ACSAC67867.2025.00093) |  |
 
 ### Attention and Interaction Control ([To Top](#awesome-rag-security))
 
@@ -232,8 +232,8 @@
 | ---- | ----- | --------------------- | ------------- | ---------- | ----- | ----- | ---- |
 | 2025 | InstructRAG: Instructing Retrieval-Augmented Generation via Self-Synthesized Rationales | L3 | O1 | T1 | ICLR | [Link](https://openreview.net/pdf?id=P1qhkp8gQT) |  |
 | 2025 | Astute RAG: Overcoming Imperfect Retrieval Augmentation and Knowledge Conflicts for Large Language Models | L3 | O1 | T1 | ACL | [Link](https://aclanthology.org/2025.acl-long.1476.pdf) |  |
-| 2025 | RbFT: Robust Fine-tuning for Retrieval-Augmented Generation against Retrieval Defects | L3 | O1 | T1 | arXiv | [Link](https://arxiv.org/pdf/2501.18365) |  |
-| 2024 | Why So Gullible? Enhancing the Robustness of Retrieval-Augmented Models against Counterfactual Noise | L3 | O1 | T1 | Findings of NAACL | [Link](https://arxiv.org/pdf/2305.01579) |  |
+| 2025 | RbFT: Robust Fine-tuning for Retrieval-Augmented Generation against Retrieval Defects | L3 | O1 | T1 | SIGIR | [Link](https://dl.acm.org/doi/pdf/10.1145/3726302.3730078) |  |
+| 2024 | Why So Gullible? Enhancing the Robustness of Retrieval-Augmented Models against Counterfactual Noise | L3 | O1 | T1 | Findings of NAACL | [Link](https://aclanthology.org/2024.findings-naacl.159.pdf) |  |
 
 ## Access Control, Privacy and Confidentiality (L4)
 
@@ -248,11 +248,11 @@
 
 | Year | Title | **S**urface/**L**ayer | **O**bjective | **T**arget | Venue | Paper | Code |
 | ---- | ----- | --------------------- | ------------- | ---------- | ----- | ----- | ---- |
-| 2025 | RAG with Differential Privacy | L4 | O3 | T1 | IEEE CAI | [Link](https://arxiv.org/pdf/2412.19291) |  |
+| 2025 | RAG with Differential Privacy | L4 | O3 | T1 | IEEE CAI | [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11050672) |  |
 | 2025 | Mitigating Privacy Risks in Retrieval-Augmented Generation via Locally Private Entity Perturbation | L4 | O3 | T1 | Information Processing and Management | [Link](https://www.sciencedirect.com/science/article/pii/S0306457325000913/pdfft?isDTMRedir=true&download=true) |  |
 | 2025 | VAGUE-Gate: Plug-and-Play Local-Privacy Shield for Retrieval-Augmented Generation | L4 | O3 | T1 | IJCNLP-AACL | [Link](https://aclanthology.org/2025.ijcnlp-long.194.pdf) |  |
 | 2025 | Privacy-Aware Decoding: Mitigating Privacy Leakage of Large Language Models in Retrieval-Augmented Generation | L4 | O3 | T1 | arXiv | [Link](https://arxiv.org/pdf/2508.03098) |  |
-| 2025 | InvisibleInk: High-Utility and Low-Cost Text Generation with Differential Privacy | L4 | O3 | T1 | arXiv | [Link](https://arxiv.org/pdf/2507.02974) |  |
+| 2025 | InvisibleInk: High-Utility and Low-Cost Text Generation with Differential Privacy | L4 | O3 | T1 | NeurIPS | [Link](https://openreview.net/pdf?id=B4NT8TexNS) |  |
 | 2024 | Privacy-Preserving Retrieval-Augmented Generation with Differential Privacy | L4 | O3 | T1 | arXiv | [Link](https://arxiv.org/pdf/2412.04697) |  |
 
 ### Corpus Transformation ([To Top](#awesome-rag-security))
@@ -266,7 +266,7 @@
 | Year | Title | **S**urface/**L**ayer | **O**bjective | **T**arget | Venue | Paper | Code |
 | ---- | ----- | --------------------- | ------------- | ---------- | ----- | ----- | ---- |
 | 2025 | RemoteRAG: A Privacy-Preserving LLM Cloud RAG Service | L4 | O3 | T1 | Findings of ACL | [Link](https://aclanthology.org/2025.findings-acl.197.pdf) |  |
-| 2025 | Efficient Privacy-Preserving Retrieval Augmented Generation with Distance-Preserving Encryption | L4 | O3 | T1 | FLLM | [Link](https://arxiv.org/pdf/2601.12331) |  |
+| 2025 | Efficient Privacy-Preserving Retrieval Augmented Generation with Distance-Preserving Encryption | L4 | O3 | T1 | FLLM | [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11391120) |  |
 | 2024 | FRAG: Toward Federated Vector Database Management for Collaborative and Secure Retrieval-Augmented Generation | L4 | O3 | T1 | arXiv | [Link](https://arxiv.org/pdf/2410.13272) |  |
 
 ### Confidential Architectures ([To Top](#awesome-rag-security))
@@ -287,8 +287,8 @@
 
 | Year | Title | **S**urface/**L**ayer | **O**bjective | **T**arget | Venue | Paper | Code |
 | ---- | ----- | --------------------- | ------------- | ---------- | ----- | ----- | ---- |
-| 2026 | Worse than Zero-shot? A Fact-Checking Dataset for Evaluating the Robustness of RAG Against Misleading Retrievals | S1 | O1 | T1 | NeurIPS Datasets and Benchmarks | [Link](https://arxiv.org/pdf/2502.16101) |  |
-| 2026 | Hidden-in-Plain-Text: A Benchmark for Social-Web Indirect Prompt Injection in RAG | S1, S2 (partial), S3 | O1 | T1 | arXiv | [Link](https://arxiv.org/pdf/2601.10923) |  |
+| 2025 | Worse than Zero-shot? A Fact-Checking Dataset for Evaluating the Robustness of RAG Against Misleading Retrievals | S1 | O1 | T1 | NeurIPS Datasets and Benchmarks | [Link](https://proceedings.neurips.cc/paper_files/paper/2025/file/ed25c00ff6900989116d3ba5d607d33d-Paper-Datasets_and_Benchmarks_Track.pdf) |  |
+| 2026 | Hidden-in-Plain-Text: A Benchmark for Social-Web Indirect Prompt Injection in RAG | S1, S2 (partial), S3 | O1 | T1 | WWW | [Link](https://dl.acm.org/doi/pdf/10.1145/3774904.3792853) |  |
 | 2026 | MPIB: A Benchmark for Medical Prompt Injection Attacks and Clinical Safety in LLMs | S3 | O1 | T1 | arXiv | [Link](https://arxiv.org/pdf/2602.06268) |  |
 | 2026 | Privacy Protection in RAG: A Novel Method and Evaluation Framework | -- | O3 | T1 | Information Processing and Management | [Link](https://www.sciencedirect.com/science/article/pii/S0306457325004467/pdfft?isDTMRedir=true&download=true) |  |
 | 2026 | Benchmarking Knowledge-Extraction Attack and Defense on Retrieval-Augmented Generation | S2 (partial), S4 | O3 | T1 | arXiv | [Link](https://arxiv.org/pdf/2602.09319) |  |
