@@ -22,7 +22,7 @@
 **If you would like to include your paper, suggest improvements to our survey, or discuss related topics with us, please feel free to contact: martin.xu@connect.polyu.hk.**
 
 <p align="center">
-  <img src="image/pipeline.pdf" alt="SLOT view of the RAG knowledge-access pipeline" width="95%">
+  <img src="pipeline.pdf" alt="SLOT view of the RAG knowledge-access pipeline" width="95%">
 </p>
 
 <p align="center"><sub>SLOT view of the RAG knowledge-access pipeline. Attack surfaces (S1-S4) and defense layers (L1-L4) are aligned with the pipeline stages, while Objective (O) and Target (T) are cross-cutting tags used to compare attacks, defenses, and benchmarks, i.e., SLOT Tag = Surface/Layer + Objective + Target.</sub></p>
