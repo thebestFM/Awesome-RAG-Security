@@ -310,3 +310,22 @@
 | 2025 | Beyond Text: Unveiling Privacy Vulnerabilities in Multi-modal Retrieval-Augmented Generation | S1, S2 (partial) | O3 | T1 | EMNLP | [Link](https://aclanthology.org/2025.emnlp-main.1259.pdf) |  |
 | 2024 | The Good and The Bad: Exploring Privacy Issues in Retrieval-Augmented Generation | S1, S4 (partial) | O3 | T1 | Findings of ACL | [Link](https://aclanthology.org/2024.findings-acl.267.pdf) |  |
 
+
+---
+
+# Citation and Contact
+
+If you find this repository or our survey useful, please consider citing our paper:
+
+```bibtex
+@article{xu2026securing,
+  title={Securing Retrieval-Augmented Generation: A Taxonomy of Attacks, Defenses, and Future Directions},
+  author={Xu, Yuming and Zhang, Mingtao and Ge, Zhuohan and Li, Haoyang and Hu, Nicole and Zhang, Yongqi and Wen, Zhiyuan and Zhang, Jason Chen and Li, Qing and Chen, Lei},
+  journal={arXiv preprint arXiv:2604.08304},
+  year={2026}
+}
+```
+
+For paper inclusion, corrections, or suggestions, please feel free to contact:
+
+Yuming Xu: martin.xu@connect.polyu.hk
