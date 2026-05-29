@@ -22,6 +22,12 @@
 **If you would like to include your paper, suggest improvements to our survey, or discuss related topics with us, please feel free to contact: martin.xu@connect.polyu.hk.**
 
 <p align="center">
+  <img src="./intro.png" alt="Attack surfaces (S1-S4) and defense layers that mirror them (L1-L4) along the RAG pipeline." width="95%">
+</p>
+
+<p align="center"><sub>Attack surfaces (S1-S4) and defense layers that mirror them (L1-L4) along the RAG pipeline.</sub></p>
+
+<p align="center">
   <img src="./pipeline.png" alt="SLOT view of the RAG knowledge-access pipeline" width="95%">
 </p>
 
