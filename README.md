@@ -6,7 +6,7 @@
 
 ## [Securing Retrieval-Augmented Generation: A Taxonomy of Attacks, Defenses, and Future Directions](https://arxiv.org/pdf/2604.08304)
 
-> *Yuming Xu <sup>1</sup>, Mingtao Zhang <sup>1</sup>, Zhuohan Ge <sup>1</sup>, [Haoyang Li](https://refrainlhy.github.io/) <sup>1</sup>, Nicole Hu <sup>1</sup>, [Yongqi Zhang](https://yzhangee.github.io/) <sup>2</sup>, Zhiyuan Wen <sup>1</sup>, Jason Chen Zhang <sup>1</sup>, Qing Li <sup>1</sup>, [Lei Chen](https://home.cse.ust.hk/~leichen/) <sup>2</sup>*
+> *[Yuming Xu](https://thebestfm.github.io/) <sup>1</sup>, Mingtao Zhang <sup>1</sup>, Zhuohan Ge <sup>1</sup>, [Haoyang Li](https://refrainlhy.github.io/) <sup>1</sup>, Nicole Hu <sup>1</sup>, [Yongqi Zhang](https://yzhangee.github.io/) <sup>2</sup>, [Zhiyuan Wen](https://preke.github.io/) <sup>1</sup>, [Jason Chen Zhang](https://www.zhangchen.info/) <sup>1</sup>, [Qing Li](https://www4.comp.polyu.edu.hk/~csqli/) <sup>1</sup>, [Lei Chen](https://home.cse.ust.hk/~leichen/) <sup>2</sup>*
 
 > *<sup>1</sup>The Hong Kong Polytechnic University, <sup>2</sup>The Hong Kong University of Science and Technology (Guangzhou).*
 
